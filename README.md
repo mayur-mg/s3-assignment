@@ -14,4 +14,4 @@ Steps to execute the script -
 
  ./s3_download.sh test.zip
  
- 
+ 3. After running it will ask you access key and secret key. Please provide the same in which onlinesales-coding-test bucket is placed.
