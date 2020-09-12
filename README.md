@@ -12,7 +12,7 @@ Steps to execute the script -
 
 2. Run the script as command given below -
 
- ./s3_download.sh <Your File Name>
+ ./s3_download.sh < Your File Name >
  
 3. Pass your file name as an argument for the script. 
  
