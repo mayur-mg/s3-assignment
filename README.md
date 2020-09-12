@@ -12,6 +12,8 @@ Steps to execute the script -
 
 2. Run the script as command given below -
 
- ./s3_download.sh test.zip
+ ./s3_download.sh <Your File Name>
  
- 3. After running script it will ask you access key and secret key. Please provide the same which can access onlinesales-coding-test bucket.
+3. Pass your file name as an argument for the script. 
+ 
+ 4. After running script it will ask you access key and secret key. Please provide the same which can access onlinesales-coding-test bucket.
